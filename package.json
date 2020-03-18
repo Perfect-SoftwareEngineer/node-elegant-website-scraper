@@ -48,7 +48,9 @@
   "devDependencies": {
     "codeclimate-test-reporter": "^0.5.0",
     "coveralls": "^3.0.0",
-    "eslint": "^6.0.0",
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
     "mocha": "^6.0.0",
     "nock": "^11.1.0",
     "nyc": "^14.0.0",
